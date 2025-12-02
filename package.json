@@ -2,7 +2,7 @@
   "name": "smart-grid-ai",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://uglyghost.github.io/smart-grid-ai",
+  "homepage": "[https://uglyghost.github.io/smart-grid-ai](https://uglyghost.github.io/smart-grid-ai)",
   "type": "module",
   "scripts": {
     "dev": "vite",
